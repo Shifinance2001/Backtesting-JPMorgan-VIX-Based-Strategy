@@ -23,3 +23,17 @@ JPMorgan's research team identified a rules-based market timing indicator with a
 | Average 6-month S&P 500 return (excl. last 2) | **~+7.9%** |
 | Worst signal (2008 GFC recession) | **~-32.7%** |
 | Strategy accuracy outside recessions | **~100%** |
+
+> The two recession-era signals (notably the 2008 financial crisis) are the exceptions where the signal failed — confirming JPMorgan's caveat that the indicator works *outside* recessions.
+
+## ⚠️ Limitations & Caveats
+ 
+- **Recession caveat:** JPMorgan explicitly noted the signal fails during recessions. The 2008 GFC signal produced a ~-33% drawdown over the following 6 months.
+- **Lookahead bias:** This is a backtest — forward performance is not guaranteed.
+- **Small sample size:** 21 signals over 32 years is a limited dataset.
+- **Data source:** Uses Yahoo Finance data via `yfinance`, which may differ slightly from Bloomberg terminal data used in the original research.
+- **No transaction costs:** This backtest does not account for slippage, commissions, or taxes.
+
+  ## 📚 References
+ 
+- Bloomberg article: https://www.bloomberg.com/news/articles/2022-02-08/jpmorgan-strategists-see-sure-fire-sign-it-s-time-to-buy-stocks
