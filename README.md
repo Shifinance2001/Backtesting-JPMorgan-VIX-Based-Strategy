@@ -37,3 +37,5 @@ JPMorgan's research team identified a rules-based market timing indicator with a
   ## 📚 References
  
 - Bloomberg article: https://www.bloomberg.com/news/articles/2022-02-08/jpmorgan-strategists-see-sure-fire-sign-it-s-time-to-buy-stocks
+
+ 
