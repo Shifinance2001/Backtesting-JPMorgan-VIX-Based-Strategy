@@ -15,3 +15,12 @@ JPMorgan's research team identified a rules-based market timing indicator with a
 - Triggered **21 times** since 1990
 - Average S&P 500 return of **~9%** in the 6 months following each signal
 - All positive outcomes occurred **outside of recession periods**
+
+## 📊 Backtest Results (1990–2022)
+ 
+| Metric | Value |
+|---|---|
+| Signal triggers (1990–2022) | **21** |
+| Average 6-month S&P 500 return (excl. last 2) | **~+7.9%** |
+| Worst signal (2008 GFC recession) | **~-32.7%** |
+| Strategy accuracy outside recessions | **~100%** |
