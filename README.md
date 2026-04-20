@@ -3,17 +3,16 @@
 ## 📰 Strategy Overview
 JPMorgan's research team identified a rules-based market timing indicator with a claimed **100% accuracy rate outside of recessions** over three decades.
 
-**The Signal:** Buy the S&P 500 when the **Cboe Volatility Index (VIX)** closes more than **50% above its 1-month (30-day) rolling moving average**
+- **The Signal:** Buy the S&P 500 when the **Cboe Volatility Index (VIX)** closes more than **50% above its 1-month (30-day) rolling moving average**
 
-**Signal Cooldown:** Signals within 30 days of a prior signal are ignored, preventing repeated triggering during sustained volatility.
+- **Signal Cooldown:** Signals within 30 days of a prior signal are ignored, preventing repeated triggering during sustained volatility.
 
-**Exit Rule:** Hold for **6 months** after each signal, then measure the S&P 500 return.
+- **Exit Rule:** Hold for **6 months** after each signal, then measure the S&P 500 return.
 
- 
-**Result from JPMorgan's analysis:**
-- Triggered **21 times** since 1990
-- Average S&P 500 return of **~9%** in the 6 months following each signal
-- All positive outcomes occurred **outside of recession periods**
+- **Result from JPMorgan's analysis:**
+1. Triggered **21 times** since 1990
+2. Average S&P 500 return of **~9%** in the 6 months following each signal
+3. All positive outcomes occurred **outside of recession periods**
 
 ## 📊 Backtest Results (1990–2022)
  
@@ -34,8 +33,12 @@ JPMorgan's research team identified a rules-based market timing indicator with a
 - **Data source:** Uses Yahoo Finance data via `yfinance`, which may differ slightly from Bloomberg terminal data used in the original research.
 - **No transaction costs:** This backtest does not account for slippage, commissions, or taxes.
 
-  ## 📚 References
+ ## 📚 References
  
 - Bloomberg article: https://www.bloomberg.com/news/articles/2022-02-08/jpmorgan-strategists-see-sure-fire-sign-it-s-time-to-buy-stocks
+
+## 🔧 Disclaimer
+The trading strategy described in this repository is based on publicly reported research by JPMorgan strategists as covered in a Bloomberg article (February 2022). This project is an independent educational replication and is **not affiliated with, endorsed by, or sponsored by JPMorgan Chase & Co. or Bloomberg**.
+
 
  
