@@ -37,6 +37,12 @@ JPMorgan's research team identified a rules-based market timing indicator with a
  
 - Bloomberg article: https://www.bloomberg.com/news/articles/2022-02-08/jpmorgan-strategists-see-sure-fire-sign-it-s-time-to-buy-stocks
 
+# 📰 Original Bloomberg Article
+
+![Bloomberg Article](bloomberg_article_text_1.png)
+![Bloomberg Article Continued](bloomberg_article_text_2.png)
+![JPMorgan VIX Chart](bloomberg_vix_chart.png)
+
 ## 🔧 Disclaimer
 The trading strategy described in this repository is based on publicly reported research by JPMorgan strategists as covered in a Bloomberg article (February 2022). This project is an independent educational replication and is **not affiliated with, endorsed by, or sponsored by JPMorgan Chase & Co. or Bloomberg**.
 
