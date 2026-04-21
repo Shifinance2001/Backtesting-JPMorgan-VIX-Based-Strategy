@@ -39,7 +39,7 @@ JPMorgan's research team identified a rules-based market timing indicator with a
 
 # 📰 Original Bloomberg Article
 
-![Bloomberg Article](bloomberg_article_text_1.png)
+- (bloomberg_article_text_1.png)
 ![Bloomberg Article Continued](bloomberg_article_text_2.png)
 ![JPMorgan VIX Chart](bloomberg_vix_chart.png)
 
