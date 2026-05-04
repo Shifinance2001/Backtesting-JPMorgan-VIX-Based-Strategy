@@ -39,7 +39,9 @@ JPMorgan's research team identified a rules-based market timing indicator with a
 - Original Bloomberg article screenshots:
 
 ![Bloomberg Article](https://github.com/Shifinance2001/Backtesting-JPMorgan-VIX-Based-Strategy/blob/f4e520dfcb67484dc1407d3c8b6761c8b0071e51/bloomberg_article_text_1.png.png)
+
 ![Bloomberg Article Continued](https://github.com/Shifinance2001/Backtesting-JPMorgan-VIX-Based-Strategy/blob/eb06f2c3cbaee3af847f71667be2d26a1a5381fa/bloomberg_article_text_2.png.png)
+
 ![JPMorgan VIX Chart](https://github.com/Shifinance2001/Backtesting-JPMorgan-VIX-Based-Strategy/blob/44af1467d96d19a1907c70c40c1e270566ad66fb/bloomberg_vix_chart.png.png)
 
 ## 🔧 Disclaimer
